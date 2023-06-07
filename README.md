@@ -7,12 +7,14 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://paeslemesa.github.io" target="_blank"><img src="">
+    <a href="https://paeslemesa.github.io" target="_blank"><img src="\examples\preview.png">
   </a>
   </kbd>
 </p>
 
+
 ## Sections 
+
 ✔️ About me\
 ✔️ Experience\
 ✔️ Projects \
